@@ -1,0 +1,8 @@
+C:\Users\dimitris\Source\Repos\1dv402-dn222em-1-2-Rita\Rita-Med-Asterisker\bin\Debug\Rita-Med-Asterisker.exe.config
+C:\Users\dimitris\Source\Repos\1dv402-dn222em-1-2-Rita\Rita-Med-Asterisker\bin\Debug\Rita-Med-Asterisker.exe
+C:\Users\dimitris\Source\Repos\1dv402-dn222em-1-2-Rita\Rita-Med-Asterisker\bin\Debug\Rita-Med-Asterisker.pdb
+C:\Users\dimitris\Source\Repos\1dv402-dn222em-1-2-Rita\Rita-Med-Asterisker\obj\Debug\Rita-Med-Asterisker.exe
+C:\Users\dimitris\Source\Repos\1dv402-dn222em-1-2-Rita\Rita-Med-Asterisker\obj\Debug\Rita-Med-Asterisker.pdb
+C:\Users\dimitris\1-2Rita\Rita-Med-Asterisker\bin\Debug\Rita-Med-Asterisker.exe.config
+C:\Users\dimitris\1-2Rita\Rita-Med-Asterisker\obj\Debug\Rita-Med-Asterisker.exe
+C:\Users\dimitris\1-2Rita\Rita-Med-Asterisker\obj\Debug\Rita-Med-Asterisker.pdb
