@@ -40,7 +40,7 @@ namespace rita
                         Console.Write(" ");
                     }
 
-                    //Satsen "switch" färgar raderna me de tre förbestämda färgerna.
+                    //Satsen "switch" färgar raderna de tre förbestämda färgerna.
                     switch (row % 3)
                     {
                         case 0:
